@@ -3,7 +3,6 @@ formulas:
 - !!python/unicode 'carthage'
 - !!python/unicode 'cmake'
 - !!python/unicode 'cocoapods'
-- !!python/unicode 'crfsuite'
 - !!python/unicode 'direnv'
 - !!python/unicode 'docker'
 - !!python/unicode 'fontconfig'
