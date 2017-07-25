@@ -1,0 +1,49 @@
+{
+    "casks": [
+        "google-cloud-sdk"
+    ],
+    "formulas": [
+        "autoconf",
+        "carthage",
+        "cmake",
+        "cocoapods",
+        "direnv",
+        "docker",
+        "fontconfig",
+        "freetype",
+        "gd",
+        "gdbm",
+        "git",
+        "go",
+        "graphviz",
+        "heroku",
+        "htop",
+        "icu4c",
+        "jpeg",
+        "liblbfgs",
+        "libpng",
+        "libtiff",
+        "libtool",
+        "mysql",
+        "node",
+        "openssl",
+        "openssl@1.1",
+        "pcre",
+        "pkg-config",
+        "postgresql",
+        "protobuf",
+        "pstree",
+        "readline",
+        "redis",
+        "sqlite",
+        "truncate",
+        "watchman",
+        "webp",
+        "xz",
+        "yarn"
+    ],
+    "symlinks": {
+        "git/.*": "~",
+        "shell/.*": "~"
+    }
+}
