@@ -1,0 +1,14 @@
+[user]
+	name = Kunal Shah
+	email = me@kunalashah.com
+[core]
+	editor = atom
+	excludesfile = /Users/kshah/.gitignore
+[color]
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+[diff]
+	renamelimit = 4000
+	renames = true
